@@ -1,0 +1,365 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/care2002/svn/!svn/ver/7300/care2x_tz/branches/care2x_elct/modules/nursing
+END
+nursing-station-radiology-list.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/nursing/nursing-station-radiology-list.php
+END
+nursing-station-patientdaten-doconsil-generic.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/nursing/nursing-station-patientdaten-doconsil-generic.php
+END
+roots.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/nursing/roots.php
+END
+nursing-station-remarks.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/nursing/nursing-station-remarks.php
+END
+nursing-station-patientdaten-doconsil-router.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/nursing/nursing-station-patientdaten-doconsil-router.php
+END
+nursing-station-assignwaiting.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/nursing/nursing-station-assignwaiting.php
+END
+nursing-station-patientdaten-kurve.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/nursing/nursing-station-patientdaten-kurve.php
+END
+nursing-station-patientdaten-rootinfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/nursing/nursing-station-patientdaten-rootinfo.php
+END
+nursing-station-pharmacy-list.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/nursing/nursing-station-pharmacy-list.php
+END
+nursing-station-transfer-save.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/nursing/nursing-station-transfer-save.php
+END
+nursing-station-patientdaten-doconsil-chemlabor.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/nursing/nursing-station-patientdaten-doconsil-chemlabor.php
+END
+nursing-station-noedit.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/nursing/nursing-station-noedit.php
+END
+nursing-station-patientdaten-todo.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/nursing/nursing-station-patientdaten-todo.php
+END
+nursing-station-patientdaten-doconsil-radio.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/p/care2002/svn/!svn/ver/7271/care2x_tz/branches/care2x_elct/modules/nursing/nursing-station-patientdaten-doconsil-radio.php
+END
+nursing-station-patientdaten-setstartdate.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/nursing/nursing-station-patientdaten-setstartdate.php
+END
+nursing-station-laboratory-list.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/nursing/nursing-station-laboratory-list.php
+END
+nursing-station-doctor-service.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/nursing/nursing-station-doctor-service.php
+END
+nursing-getdailybp_t.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/nursing/nursing-getdailybp_t.php
+END
+nursing-station-new.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/nursing/nursing-station-new.php
+END
+nursing-station-info.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/nursing/nursing-station-info.php
+END
+nursing-station-patientdaten_print.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/p/care2002/svn/!svn/ver/7258/care2x_tz/branches/care2x_elct/modules/nursing/nursing-station-patientdaten_print.php
+END
+b.gif
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/nursing/b.gif
+END
+nursing-getdailyinfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/nursing/nursing-getdailyinfo.php
+END
+occupancy_pie_chart.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/nursing/occupancy_pie_chart.php
+END
+nursing-getdailymedx.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/nursing/nursing-getdailymedx.php
+END
+f.gif
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/nursing/f.gif
+END
+nursing-station-noclose.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/nursing/nursing-station-noclose.php
+END
+nursing-station.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/nursing/nursing-station.php
+END
+labor_datalist_history.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/care2002/svn/!svn/ver/7258/care2x_tz/branches/care2x_elct/modules/nursing/labor_datalist_history.php
+END
+nursing-station-getlast.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/nursing/nursing-station-getlast.php
+END
+nursing-schnellsicht.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/care2002/svn/!svn/ver/7326/care2x_tz/branches/care2x_elct/modules/nursing/nursing-schnellsicht.php
+END
+nursing-station-patientdaten-nolabreport.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/nursing/nursing-station-patientdaten-nolabreport.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/nursing/index.php
+END
+nursing-station-pass.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/nursing/nursing-station-pass.php
+END
+index.htm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/nursing/index.htm
+END
+nursing-station-nobelegungsliste.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/nursing/nursing-station-nobelegungsliste.php
+END
+p.gif
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/nursing/p.gif
+END
+nursing-station-archiv.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/nursing/nursing-station-archiv.php
+END
+nursing-getmedx.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/nursing/nursing-getmedx.php
+END
+nursing-station-patientdaten-pbericht.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/nursing/nursing-station-patientdaten-pbericht.php
+END
+nursing-patient-such-start.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/nursing/nursing-patient-such-start.php
+END
+nursing-station-patientdaten.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/p/care2002/svn/!svn/ver/7258/care2x_tz/branches/care2x_elct/modules/nursing/nursing-station-patientdaten.php
+END
+nursing-station-bettbelegen.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/p/care2002/svn/!svn/ver/7232/care2x_tz/branches/care2x_elct/modules/nursing/nursing-station-bettbelegen.php
+END
+nursing-station-patient-release.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/nursing/nursing-station-patient-release.php
+END
+labor_datalist_icd10_history.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/nursing/labor_datalist_icd10_history.php
+END
+labor_datalist_prescription.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/nursing/labor_datalist_prescription.php
+END
+nursing.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/nursing/nursing.php
+END
+nursing-station-procedures-list.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/nursing/nursing-station-procedures-list.php
+END
+nursing-station-consumables-list.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/nursing/nursing-station-consumables-list.php
+END
+nursing-station-patientdaten-doconsil-blood.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/nursing/nursing-station-patientdaten-doconsil-blood.php
+END
+nursing-station-remarks2.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/nursing/nursing-station-remarks2.php
+END
+nursing-station-manage.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/nursing/nursing-station-manage.php
+END
+nursing-station-new-createbeds.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/nursing/nursing-station-new-createbeds.php
+END
+nursing-station-diagnosis-list.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/nursing/nursing-station-diagnosis-list.php
+END
+nursing-station-patientdaten-doconsil-baclabor.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/nursing/nursing-station-patientdaten-doconsil-baclabor.php
+END
+nursing-popgetinfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/nursing/nursing-popgetinfo.php
+END
+nursing-station-manage-pass.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/nursing/nursing-station-manage-pass.php
+END
+nursing-station-patientdaten-diagnosis.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/nursing/nursing-station-patientdaten-diagnosis.php
+END
+nursing-station-transfer-select.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/nursing/nursing-station-transfer-select.php
+END
+nursing-station-patientdaten-doconsil-patho.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/nursing/nursing-station-patientdaten-doconsil-patho.php
+END

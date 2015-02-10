@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/Stock/gui
+END
+add_supplier_gui.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/Stock/gui/add_supplier_gui.php
+END
+gui_supplier_add.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/Stock/gui/gui_supplier_add.php
+END
+gui_show_supplier.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/Stock/gui/gui_show_supplier.php
+END
+gui_delete_supplier.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/Stock/gui/gui_delete_supplier.php
+END
+gui_pharmacy_tz_search.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/Stock/gui/gui_pharmacy_tz_search.php
+END
+gui_edit_supplier.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/Stock/gui/gui_edit_supplier.php
+END
+gui_purchase_order_supplier.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/Stock/gui/gui_purchase_order_supplier.php
+END
+gui_supplier_search.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/Stock/gui/gui_supplier_search.php
+END

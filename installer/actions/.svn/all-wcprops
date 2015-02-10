@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/care2002/svn/!svn/ver/7257/care2x_tz/branches/care2x_elct/installer/actions
+END
+BaseAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/installer/actions/BaseAction.php
+END
+SQLOptions.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/installer/actions/SQLOptions.php
+END
+CreateAdmin.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/installer/actions/CreateAdmin.php
+END
+SQLAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/installer/actions/SQLAction.php
+END
+SQLFile.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/installer/actions/SQLFile.php
+END
+SQLSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/installer/actions/SQLSchema.php
+END
+ReplaceString.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/care2002/svn/!svn/ver/7257/care2x_tz/branches/care2x_elct/installer/actions/ReplaceString.php
+END
+AcceptText.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/installer/actions/AcceptText.php
+END
+CSVOptions.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/installer/actions/CSVOptions.php
+END
+RenameFile.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/care2002/svn/!svn/ver/7257/care2x_tz/branches/care2x_elct/installer/actions/RenameFile.php
+END

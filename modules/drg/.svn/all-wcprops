@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/care2002/svn/!svn/ver/7257/care2x_tz/branches/care2x_elct/modules/drg
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/drg/index.php
+END
+drg-composite-start.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/drg/drg-composite-start.php
+END
+index.htm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/drg/index.htm
+END
+drg-ops-intern.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/drg/drg-ops-intern.php
+END
+drg-intern-create.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/drg/drg-intern-create.php
+END
+drg-icd10.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/drg/drg-icd10.php
+END
+drg-ops-intern-search.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/drg/drg-ops-intern-search.php
+END
+p.gif
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/drg/p.gif
+END
+drg_inc_local_user.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/care2002/svn/!svn/ver/7232/care2x_tz/branches/care2x_elct/modules/drg/drg_inc_local_user.php
+END
+drg-icd10-search.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/care2002/svn/!svn/ver/7257/care2x_tz/branches/care2x_elct/modules/drg/drg-icd10-search.php
+END
+drg-quicklist.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/drg/drg-quicklist.php
+END
+drg-related-codes.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/drg/drg-related-codes.php
+END
+drg-ops301.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/drg/drg-ops301.php
+END
+drg-ops301-search.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/care2002/svn/!svn/ver/7232/care2x_tz/branches/care2x_elct/modules/drg/drg-ops301-search.php
+END
+roots.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/drg/roots.php
+END

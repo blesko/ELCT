@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/care2002/svn/!svn/ver/7232/care2x_tz/branches/care2x_elct/include/care_api_classes/xmlrpc/lib
+END
+xmlrpc.inc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p/care2002/svn/!svn/ver/7232/care2x_tz/branches/care2x_elct/include/care_api_classes/xmlrpc/lib/xmlrpc.inc
+END
+xmlrpc_wrappers.inc
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/xmlrpc/lib/xmlrpc_wrappers.inc
+END
+xmlrpcs.inc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/p/care2002/svn/!svn/ver/7232/care2x_tz/branches/care2x_elct/include/care_api_classes/xmlrpc/lib/xmlrpcs.inc
+END

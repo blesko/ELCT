@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/radiology/dicomviewer/src
+END
+animationthread.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/radiology/dicomviewer/src/animationthread.java
+END
+dicom.dic
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/radiology/dicomviewer/src/dicom.dic
+END
+dicomdic.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/radiology/dicomviewer/src/dicomdic.java
+END
+dicomfile.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/radiology/dicomviewer/src/dicomfile.java
+END
+infopanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/radiology/dicomviewer/src/infopanel.java
+END
+imagedata.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/radiology/dicomviewer/src/imagedata.java
+END
+borderpanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/radiology/dicomviewer/src/borderpanel.java
+END
+hgrid.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/radiology/dicomviewer/src/hgrid.java
+END
+loaderthread.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/radiology/dicomviewer/src/loaderthread.java
+END
+imagetiledcanvas.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/radiology/dicomviewer/src/imagetiledcanvas.java
+END
+viewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/radiology/dicomviewer/src/viewer.java
+END
+taginfoframe.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/radiology/dicomviewer/src/taginfoframe.java
+END
+dicomdata.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/radiology/dicomviewer/src/dicomdata.java
+END
+mylabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/radiology/dicomviewer/src/mylabel.java
+END

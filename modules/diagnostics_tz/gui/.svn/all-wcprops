@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/diagnostics_tz/gui
+END
+gui_icd10_entercomment.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/diagnostics_tz/gui/gui_icd10_entercomment.php
+END
+gui_icd10_history.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/diagnostics_tz/gui/gui_icd10_history.php
+END
+gui_diagnostics_tz.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/diagnostics_tz/gui/gui_diagnostics_tz.php
+END
+gui_icd10_search.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/diagnostics_tz/gui/gui_icd10_search.php
+END
+gui_icd10_showdetails.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/diagnostics_tz/gui/gui_icd10_showdetails.php
+END
+gui_icd10_manage.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/diagnostics_tz/gui/gui_icd10_manage.php
+END
+gui_icd10_quicklist.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/diagnostics_tz/gui/gui_icd10_quicklist.php
+END
+gui_icd10_diagnose.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/diagnostics_tz/gui/gui_icd10_diagnose.php
+END

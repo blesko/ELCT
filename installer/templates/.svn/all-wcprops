@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/installer/templates
+END
+actions.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/installer/templates/actions.tpl
+END
+action_accept_text.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/installer/templates/action_accept_text.tpl
+END
+field_separator.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/installer/templates/field_separator.tpl
+END
+field_password.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/installer/templates/field_password.tpl
+END
+action_complete.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/installer/templates/action_complete.tpl
+END
+action_sql_options.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/installer/templates/action_sql_options.tpl
+END
+test_result.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/installer/templates/test_result.tpl
+END
+collect_data.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/installer/templates/collect_data.tpl
+END
+version_check.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/installer/templates/version_check.tpl
+END
+field_select.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/installer/templates/field_select.tpl
+END
+field_text.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/installer/templates/field_text.tpl
+END
+header.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/installer/templates/header.tpl
+END
+finished.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/installer/templates/finished.tpl
+END
+action_sql_file.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/installer/templates/action_sql_file.tpl
+END
+footer.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/installer/templates/footer.tpl
+END

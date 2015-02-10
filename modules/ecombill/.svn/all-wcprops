@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/ecombill
+END
+enter_laboratory_tests.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/ecombill/enter_laboratory_tests.php
+END
+confirmLabtests.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/ecombill/confirmLabtests.php
+END
+patient_payment.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/ecombill/patient_payment.php
+END
+patient_bill_links.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/ecombill/patient_bill_links.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/ecombill/index.php
+END
+patient_due_first.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/ecombill/patient_due_first.php
+END
+index.htm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/ecombill/index.htm
+END
+confirmfinalbill.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/ecombill/confirmfinalbill.php
+END
+posteditservice.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/ecombill/posteditservice.php
+END
+p.gif
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/ecombill/p.gif
+END
+postconfirmlab.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/ecombill/postconfirmlab.php
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/ecombill/readme.txt
+END
+post_service_entry.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/ecombill/post_service_entry.php
+END
+confirmpayment.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/ecombill/confirmpayment.php
+END
+edit_hospital_services.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/ecombill/edit_hospital_services.php
+END
+final_bill.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/ecombill/final_bill.php
+END
+showfinalbill.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/ecombill/showfinalbill.php
+END
+patient_payment_links.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/ecombill/patient_payment_links.php
+END
+postfinalbill.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/ecombill/postfinalbill.php
+END
+patientbill_printsave.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/ecombill/patientbill_printsave.php
+END
+search.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/ecombill/search.php
+END
+billingmenu.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/ecombill/billingmenu.php
+END
+roots.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/ecombill/roots.php
+END
+patientbill.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/ecombill/patientbill.php
+END
+billing_script.sql
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/ecombill/billing_script.sql
+END
+ecombill_pass.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/ecombill/ecombill_pass.php
+END
+showpayment.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/ecombill/showpayment.php
+END
+select_services.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/ecombill/select_services.php
+END
+postpayment.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/ecombill/postpayment.php
+END
+enter_hospital_services.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/ecombill/enter_hospital_services.php
+END
+howto.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/ecombill/howto.txt
+END

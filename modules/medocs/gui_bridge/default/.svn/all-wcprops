@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/care2002/svn/!svn/ver/7232/care2x_tz/branches/care2x_elct/modules/medocs/gui_bridge/default
+END
+gui_show.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/medocs/gui_bridge/default/gui_show.php
+END
+gui_options_personell_register_show.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/medocs/gui_bridge/default/gui_options_personell_register_show.php
+END
+gui_tabs_medocs.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/medocs/gui_bridge/default/gui_tabs_medocs.php
+END
+gui_medocs_start.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/medocs/gui_bridge/default/gui_medocs_start.php
+END
+gui_personell_register.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/p/care2002/svn/!svn/ver/7232/care2x_tz/branches/care2x_elct/modules/medocs/gui_bridge/default/gui_personell_register.php
+END
+gui_personell_register_show.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/medocs/gui_bridge/default/gui_personell_register_show.php
+END
+gui_std_tags.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/medocs/gui_bridge/default/gui_std_tags.php
+END
+gui_tabs_personell_reg.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/medocs/gui_bridge/default/gui_tabs_personell_reg.php
+END
+gui_show_medocs.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/medocs/gui_bridge/default/gui_show_medocs.php
+END
+gui_medocs_archive.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/medocs/gui_bridge/default/gui_medocs_archive.php
+END

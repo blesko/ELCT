@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/include
+END
+inc_gui_company_selection.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/include/inc_gui_company_selection.php
+END
+inc_gui_timeframe_admission_pricelist.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/include/inc_gui_timeframe_admission_pricelist.php
+END
+inc_gui_weberp_timeframe.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/include/inc_gui_weberp_timeframe.php
+END
+inc_gui_billing_timeframe_admission.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/include/inc_gui_billing_timeframe_admission.php
+END
+inc_gui_timeframe_company_selection.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/include/inc_gui_timeframe_company_selection.php
+END
+inc_timeframe.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/include/inc_timeframe.php
+END
+inc_gui_timeframe_date.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/include/inc_gui_timeframe_date.php
+END
+inc_gui_laboratory_timeframe.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/include/inc_gui_laboratory_timeframe.php
+END
+inc_gui_timeframe_pricelist.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/include/inc_gui_timeframe_pricelist.php
+END
+inc_gui_billing_timeframe.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/include/inc_gui_billing_timeframe.php
+END
+inc_gui_timeframe.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/include/inc_gui_timeframe.php
+END

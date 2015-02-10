@@ -1,0 +1,749 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/care2002/svn/!svn/ver/7314/care2x_tz/branches/care2x_elct/include/care_api_classes
+END
+gui_insurance_tz.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/gui_insurance_tz.php
+END
+class_immunization.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_immunization.php
+END
+class_language.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_language.php
+END
+class_tz_billing.php-22.07.2010
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_tz_billing.php-22.07.2010
+END
+class_charts.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_charts.php
+END
+class_tz_diagnostics.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_tz_diagnostics.php
+END
+class_transfer.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_transfer.php
+END
+class_address.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_address.php
+END
+class_measurement.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_measurement.php
+END
+class_tz_arv_report_overview.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_tz_arv_report_overview.php
+END
+class_tz_reporting.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_tz_reporting.php
+END
+class_gui_input_person_old.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/p/care2002/svn/!svn/ver/7232/care2x_tz/branches/care2x_elct/include/care_api_classes/class_gui_input_person_old.php
+END
+class_core.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/care2002/svn/!svn/ver/7302/care2x_tz/branches/care2x_elct/include/care_api_classes/class_core.php
+END
+class_adding_stock.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_adding_stock.php
+END
+class_gui_input_person.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/care2002/svn/!svn/ver/7257/care2x_tz/branches/care2x_elct/include/care_api_classes/class_gui_input_person.php
+END
+class_multi.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_multi.php
+END
+gui_insurance_reports_company_contracts.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/gui_insurance_reports_company_contracts.php
+END
+gui_show_contract.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/gui_show_contract.php
+END
+class_ward.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_ward.php
+END
+class_radio.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_radio.php
+END
+class_gui_search_person.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/p/care2002/svn/!svn/ver/7257/care2x_tz/branches/care2x_elct/include/care_api_classes/class_gui_search_person.php
+END
+class_tz_billing.php-backup
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_tz_billing.php-backup
+END
+class_access.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_access.php
+END
+class_encounter.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/care2002/svn/!svn/ver/7314/care2x_tz/branches/care2x_elct/include/care_api_classes/class_encounter.php
+END
+class_tz_insurance_old.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_tz_insurance_old.php
+END
+gui_insurance_company_tz_contracts_new.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/gui_insurance_company_tz_contracts_new.php
+END
+class_personell.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_personell.php
+END
+class_tz_insurance.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_tz_insurance.php
+END
+class_purchase_report.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_purchase_report.php
+END
+class_tz_arv_report_quarterly.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_tz_arv_report_quarterly.php
+END
+class_gui_person_show.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/care2002/svn/!svn/ver/7257/care2x_tz/branches/care2x_elct/include/care_api_classes/class_gui_person_show.php
+END
+class_report.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_report.php
+END
+class_oproom.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_oproom.php
+END
+gui_insurance_members_tz_contracts.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/gui_insurance_members_tz_contracts.php
+END
+gui_insurance_reports_ceiling.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/gui_insurance_reports_ceiling.php
+END
+gui_billing_tz_quotation.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/gui_billing_tz_quotation.php
+END
+class_tz_billing.php-14.01.2011
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_tz_billing.php-14.01.2011
+END
+gui_insurance_types_tz_new.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/gui_insurance_types_tz_new.php
+END
+class_grn_master_detail.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_grn_master_detail.php
+END
+class_tz_arv_visit.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_tz_arv_visit.php
+END
+gui_show_company_bill.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/gui_show_company_bill.php
+END
+class_insurance.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_insurance.php
+END
+class_reordering_level.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_reordering_level.php
+END
+class_prescription.php-backup_01_04_10
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_prescription.php-backup_01_04_10
+END
+gui_insurance_company_tz_contracts.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/gui_insurance_company_tz_contracts.php
+END
+append_class_tz_insurance.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/append_class_tz_insurance.php
+END
+gui_insurance_company_tz_contracts_bill.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/gui_insurance_company_tz_contracts_bill.php
+END
+gui_insurance_company_tz_delete.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/gui_insurance_company_tz_delete.php
+END
+class_dropdown.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_dropdown.php
+END
+class_tz_billing.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/p/care2002/svn/!svn/ver/7310/care2x_tz/branches/care2x_elct/include/care_api_classes/class_tz_billing.php
+END
+class_notes_nursing.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_notes_nursing.php
+END
+class_tz_arv_case.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p/care2002/svn/!svn/ver/7232/care2x_tz/branches/care2x_elct/include/care_api_classes/class_tz_arv_case.php
+END
+class_tz_stock.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_tz_stock.php
+END
+class_userconfig.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_userconfig.php
+END
+class_purchase_order.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_purchase_order.php
+END
+gui_insurance_reports_paybyinvoice.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/gui_insurance_reports_paybyinvoice.php
+END
+class_person.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_person.php
+END
+class_add_to_store.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_add_to_store.php
+END
+class_arv_visit.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_arv_visit.php
+END
+gui_insurance_types_tz.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/gui_insurance_types_tz.php
+END
+class_template.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_template.php
+END
+class_tz_billing.php-30.07.10
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_tz_billing.php-30.07.10
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/index.php
+END
+gui_insurance_company_tz_new.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/gui_insurance_company_tz_new.php
+END
+index.htm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/index.htm
+END
+class_paginator.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_paginator.php
+END
+viewstores.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/viewstores.php
+END
+class_notes_doctors.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_notes_doctors.php
+END
+class_globalconfig.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_globalconfig.php
+END
+class_gui_tz_person_show.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/p/care2002/svn/!svn/ver/7257/care2x_tz/branches/care2x_elct/include/care_api_classes/class_gui_tz_person_show.php
+END
+gui_billing_tz_select_pricelist.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/gui_billing_tz_select_pricelist.php
+END
+gui_insurance_members_tz.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/gui_insurance_members_tz.php
+END
+class_tz_arv_form_validator.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_tz_arv_form_validator.php
+END
+class_lab.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/care2002/svn/!svn/ver/7308/care2x_tz/branches/care2x_elct/include/care_api_classes/class_lab.php
+END
+class_tz_services.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_tz_services.php
+END
+gui_show_bill.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/gui_show_bill.php
+END
+gui_billing_tz_select_pricelist_header.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/gui_billing_tz_select_pricelist_header.php
+END
+class_department.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_department.php
+END
+eye_clinic_class.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/eye_clinic_class.php
+END
+gui_insurance_company_tz_contracts_bk.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/gui_insurance_company_tz_contracts_bk.php
+END
+class_diagnostics.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_diagnostics.php
+END
+gui_pharmacy_tz_new_product.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/gui_pharmacy_tz_new_product.php
+END
+gui_insurance_company_tz.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/gui_insurance_company_tz.php
+END
+class_news.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_news.php
+END
+gui_billing_tz_archive.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/gui_billing_tz_archive.php
+END
+class_tz_arv_report_cstatistics.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_tz_arv_report_cstatistics.php
+END
+class_product.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_product.php
+END
+class_prescription.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/p/care2002/svn/!svn/ver/7270/care2x_tz/branches/care2x_elct/include/care_api_classes/class_prescription.php
+END
+gui_billing_tz_edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/gui_billing_tz_edit.php
+END
+gui_insurance_company_tz_manage.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/gui_insurance_company_tz_manage.php
+END
+roots.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/roots.php
+END
+class_tz_insurance_reports.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_tz_insurance_reports.php
+END
+class_mini_dental.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p/care2002/svn/!svn/ver/7257/care2x_tz/branches/care2x_elct/include/care_api_classes/class_mini_dental.php
+END
+gui_insurance_reports.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/gui_insurance_reports.php
+END
+class_weberp.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p/care2002/svn/!svn/ver/7313/care2x_tz/branches/care2x_elct/include/care_api_classes/class_weberp.php
+END
+class_tz_MTHUAreporting.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_tz_MTHUAreporting.php
+END
+class_timeout.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_timeout.php
+END
+supplier_database_class.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/supplier_database_class.php
+END
+class_notes.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_notes.php
+END
+class_tz_drugsandservices.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_tz_drugsandservices.php
+END
+class_tz_arv_patient.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_tz_arv_patient.php
+END
+gui_pharmacy_tz_product_catalog.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/gui_pharmacy_tz_product_catalog.php
+END
+class_advanced_search.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/care2002/svn/!svn/ver/7232/care2x_tz/branches/care2x_elct/include/care_api_classes/class_advanced_search.php
+END
+class_comm.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_comm.php
+END
+class_appointment.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_appointment.php
+END
+class_tz_arv_report.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_tz_arv_report.php
+END
+class_weberp_c2x.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/p/care2002/svn/!svn/ver/7313/care2x_tz/branches/care2x_elct/include/care_api_classes/class_weberp_c2x.php
+END
+gui_billing_tz_quotation_create.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/gui_billing_tz_quotation_create.php
+END
+class_eye_clinic.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_eye_clinic.php
+END
+class_drg_quicklist.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_drg_quicklist.php
+END
+class_config.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p/care2002/svn/!svn/ver/7232/care2x_tz/branches/care2x_elct/include/care_api_classes/class_config.php
+END
+gui_insurance_report_prepaid.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/gui_insurance_report_prepaid.php
+END
+class_registry.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_registry.php
+END
+class_medocs.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_medocs.php
+END
+gui_insurance_reports_company.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/gui_insurance_reports_company.php
+END
+gui_insurance_types_tz_edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/gui_insurance_types_tz_edit.php
+END
+gui_billing_tz.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/gui_billing_tz.php
+END
+class_drg.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_drg.php
+END
+class_tz_reporting.php-new
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_tz_reporting.php-new
+END
+gui_billing_tz_pending.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/gui_billing_tz_pending.php
+END
+class_obstetrics.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_obstetrics.php
+END
+class_tz_pharmacy.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p/care2002/svn/!svn/ver/7232/care2x_tz/branches/care2x_elct/include/care_api_classes/class_tz_pharmacy.php
+END
+class_image.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_image.php
+END
+class_tz_selianreporting.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/class_tz_selianreporting.php
+END

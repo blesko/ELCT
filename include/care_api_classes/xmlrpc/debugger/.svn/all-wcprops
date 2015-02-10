@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/care2002/svn/!svn/ver/7257/care2x_tz/branches/care2x_elct/include/care_api_classes/xmlrpc/debugger
+END
+controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/xmlrpc/debugger/controller.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/xmlrpc/debugger/index.php
+END
+common.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/include/care_api_classes/xmlrpc/debugger/common.php
+END
+action.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/care2002/svn/!svn/ver/7257/care2x_tz/branches/care2x_elct/include/care_api_classes/xmlrpc/debugger/action.php
+END

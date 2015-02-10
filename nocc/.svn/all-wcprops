@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/care2002/svn/!svn/ver/7299/care2x_tz/branches/care2x_elct/nocc
+END
+delete.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/nocc/delete.php
+END
+download.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/care2002/svn/!svn/ver/7232/care2x_tz/branches/care2x_elct/nocc/download.php
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/nocc/README
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/care2002/svn/!svn/ver/7257/care2x_tz/branches/care2x_elct/nocc/index.php
+END
+functions.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/care2002/svn/!svn/ver/7232/care2x_tz/branches/care2x_elct/nocc/functions.php
+END
+class_smtp.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/nocc/class_smtp.php
+END
+logout.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/care2002/svn/!svn/ver/7257/care2x_tz/branches/care2x_elct/nocc/logout.php
+END
+get_img.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/nocc/get_img.php
+END
+addcgipath.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/nocc/addcgipath.sh
+END
+action.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/care2002/svn/!svn/ver/7232/care2x_tz/branches/care2x_elct/nocc/action.php
+END
+no_mail.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/nocc/no_mail.php
+END
+check_lang.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/nocc/check_lang.php
+END
+class_send.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/nocc/class_send.php
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/nocc/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/nocc/COPYING
+END
+conf.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/nocc/conf.php
+END
+conf_lang.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/nocc/conf_lang.php
+END
+conf.php.dist
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/nocc/conf.php.dist
+END
+is_uploaded_file.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/nocc/is_uploaded_file.php
+END
+mime.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/nocc/mime.php
+END
+help.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/nocc/help.php
+END
+send.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/care2002/svn/!svn/ver/7230/care2x_tz/branches/care2x_elct/nocc/send.php
+END
+wrong.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/care2002/svn/!svn/ver/7257/care2x_tz/branches/care2x_elct/nocc/wrong.php
+END

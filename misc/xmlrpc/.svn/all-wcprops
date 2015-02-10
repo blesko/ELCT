@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/care2002/svn/!svn/ver/7257/care2x_tz/branches/care2x_elct/misc/xmlrpc
+END
+InsertStockItem.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/misc/xmlrpc/InsertStockItem.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/misc/xmlrpc/index.php
+END
+GetStockBalance.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/misc/xmlrpc/GetStockBalance.php
+END
+ModifyCustomer.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/misc/xmlrpc/ModifyCustomer.php
+END
+SearchCustomers.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/misc/xmlrpc/SearchCustomers.php
+END
+config.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/misc/xmlrpc/config.inc.php
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/misc/xmlrpc/.project
+END
+CreateInvoice.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/misc/xmlrpc/CreateInvoice.php
+END
+GetCustomer.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/misc/xmlrpc/GetCustomer.php
+END
+InsertCustomer.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/misc/xmlrpc/InsertCustomer.php
+END

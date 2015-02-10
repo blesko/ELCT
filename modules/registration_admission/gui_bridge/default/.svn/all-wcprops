@@ -1,0 +1,341 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/p/care2002/svn/!svn/ver/7232/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default
+END
+gui_input_prescription_preselection.php
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/gui_input_prescription_preselection.php
+END
+gui_input_show_appointment.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/gui_input_show_appointment.php
+END
+gui_input_prescription_preselection.php-backup
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/gui_input_prescription_preselection.php-backup
+END
+gui_patient_encounter_showdata.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/gui_patient_encounter_showdata.php
+END
+gui_tz_person_reg_show.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/gui_tz_person_reg_show.php
+END
+gui_person_createnew_show_appointment.php
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/gui_person_createnew_show_appointment.php
+END
+gui_show_prescription.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/gui_show_prescription.php
+END
+gui_print_sick_confirm.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/gui_print_sick_confirm.php
+END
+gui_show_laboratories.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/gui_show_laboratories.php
+END
+gui_show_pregnancy.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/gui_show_pregnancy.php
+END
+gui_show_notes.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/gui_show_notes.php
+END
+gui_show_procedure.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/gui_show_procedure.php
+END
+gui_show_radiology.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/gui_show_radiology.php
+END
+gui_tabs_patreg.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/gui_tabs_patreg.php
+END
+gui_show_encounter_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/gui_show_encounter_list.php
+END
+gui_show_appointment.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/gui_show_appointment.php
+END
+gui_input_show_weight_height.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/gui_input_show_weight_height.php
+END
+gui_input_show_prescription.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/gui_input_show_prescription.php
+END
+roots.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/roots.php
+END
+gui_person_reg_show.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/gui_person_reg_show.php
+END
+gui_person_reg_archive.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/gui_person_reg_archive.php
+END
+gui_input_edit_prescription.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/gui_input_edit_prescription.php
+END
+gui_input_prescription_details.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/gui_input_prescription_details.php
+END
+gui_show_diagnostics_result.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/gui_show_diagnostics_result.php
+END
+gui_show_sick_confirm.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/gui_show_sick_confirm.php
+END
+gui_input_show_notes_development.php
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/gui_input_show_notes_development.php
+END
+gui_input_show_birthdetail.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/gui_input_show_birthdetail.php
+END
+gui_show_medocs.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/gui_show_medocs.php
+END
+gui_show_notes2.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/gui_show_notes2.php
+END
+gui_show_notes3.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/gui_show_notes3.php
+END
+gui_patient_reg_options.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/gui_patient_reg_options.php
+END
+gui_show_drg.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/gui_show_drg.php
+END
+gui_tabs_patadmit.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/gui_tabs_patadmit.php
+END
+gui_input_appointment.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/gui_input_appointment.php
+END
+gui_aufnahme_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/gui_aufnahme_list.php
+END
+gui_show_weight_height.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/gui_show_weight_height.php
+END
+gui_show_diagnosis.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/gui_show_diagnosis.php
+END
+gui_show.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/gui_show.php
+END
+gui_show_immunization.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/gui_show_immunization.php
+END
+gui_input_show_prescription_original.php
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/gui_input_show_prescription_original.php
+END
+gui_input_show_sick_confirm.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/gui_input_show_sick_confirm.php
+END
+gui_person_reg_showdetail.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/p/care2002/svn/!svn/ver/7232/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/gui_person_reg_showdetail.php
+END
+gui_show_notes_development.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/gui_show_notes_development.php
+END
+gui_show_birthdetail.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/gui_show_birthdetail.php
+END
+gui_patient_encounter_showdata_options.php
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/gui_patient_encounter_showdata_options.php
+END
+gui_aufnahme_start.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/gui_aufnahme_start.php
+END
+gui_input_show_immunization.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/gui_input_show_immunization.php
+END
+gui_person_reg.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/gui_person_reg.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/index.php
+END
+index.htm
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/index.htm
+END
+gui_input_show_pregnancy.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/gui_input_show_pregnancy.php
+END
+gui_show_admission_history.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/gui_show_admission_history.php
+END
+gui_input_show_notes.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/gui_input_show_notes.php
+END
+gui_std_tags.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/gui_std_tags.php
+END
+gui_tz_tabs_patreg.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/gui_tz_tabs_patreg.php
+END
+gui_input_edit_prescription_details.php
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/gui_bridge/default/gui_input_edit_prescription_details.php
+END

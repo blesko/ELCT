@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/care2002/svn/!svn/ver/7232/care2x_tz/branches/care2x_elct/modules/personell_admin/gui_bridge/default
+END
+gui_options_personell_register_show.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/personell_admin/gui_bridge/default/gui_options_personell_register_show.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/personell_admin/gui_bridge/default/index.php
+END
+index.htm
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/personell_admin/gui_bridge/default/index.htm
+END
+gui_personell_register.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/p/care2002/svn/!svn/ver/7232/care2x_tz/branches/care2x_elct/modules/personell_admin/gui_bridge/default/gui_personell_register.php
+END
+gui_personell_register_show.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/personell_admin/gui_bridge/default/gui_personell_register_show.php
+END
+gui_std_tags.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/personell_admin/gui_bridge/default/gui_std_tags.php
+END
+gui_tabs_personell_reg.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/personell_admin/gui_bridge/default/gui_tabs_personell_reg.php
+END
+gui_person_register.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/personell_admin/gui_bridge/default/gui_person_register.php
+END
+gui_person_register_show.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/p/care2002/svn/!svn/ver/7232/care2x_tz/branches/care2x_elct/modules/personell_admin/gui_bridge/default/gui_person_register_show.php
+END

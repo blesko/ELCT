@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/care2002/svn/!svn/ver/7318/care2x_tz/branches/care2x_elct/install/mysql/manual
+END
+care2x.sql
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/care2002/svn/!svn/ver/7327/care2x_tz/branches/care2x_elct/install/mysql/manual/care2x.sql
+END
+update_care_encounter_7-2012.sql
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/p/care2002/svn/!svn/ver/7274/care2x_tz/branches/care2x_elct/install/mysql/manual/update_care_encounter_7-2012.sql
+END
+care_tz_laboratory_tests.sql
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/p/care2002/svn/!svn/ver/7284/care2x_tz/branches/care2x_elct/install/mysql/manual/care_tz_laboratory_tests.sql
+END
+care_test_request_chemlabor.sql
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/p/care2002/svn/!svn/ver/7306/care2x_tz/branches/care2x_elct/install/mysql/manual/care_test_request_chemlabor.sql
+END
+care_test_findings_chemlabor_sub.sql
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/p/care2002/svn/!svn/ver/7288/care2x_tz/branches/care2x_elct/install/mysql/manual/care_test_findings_chemlabor_sub.sql
+END
+care_class_encounter.sql
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/p/care2002/svn/!svn/ver/7275/care2x_tz/branches/care2x_elct/install/mysql/manual/care_class_encounter.sql
+END

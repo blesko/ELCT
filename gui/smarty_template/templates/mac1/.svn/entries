@@ -1,0 +1,153 @@
+10
+
+dir
+7325
+https://svn.code.sf.net/p/care2002/svn/care2x_tz/branches/care2x_elct/gui/smarty_template/templates/mac1
+https://svn.code.sf.net/p/care2002/svn
+
+
+
+2011-08-09T15:45:25.484358Z
+7110
+nakei
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8154e661-2335-47f1-af25-7e1110f3596a
+
+or
+dir
+
+registration_admission
+dir
+
+cafeteria
+dir
+
+tech
+dir
+
+main
+dir
+
+tags.php
+file
+
+
+
+
+2015-02-09T23:12:51.000000Z
+afbaff14d09941ca7f2ef89a08f4f964
+2011-08-09T15:45:25.484358Z
+7110
+nakei
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+354
+
+debug.tpl
+file
+
+
+
+
+2015-02-09T23:12:51.000000Z
+889fbc4772a9a852cc759e00ec587372
+2011-08-09T15:45:25.484358Z
+7110
+nakei
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5053
+
+nursing
+dir
+
+forms
+dir
+
+common
+dir
+
+radiology
+dir
+
+system_admin
+dir
+
+appointment
+dir
+
+med_depot
+dir
+
+products
+dir
+
+pharmacy
+dir
+
+medocs
+dir
+
+news
+dir
+
+doctors
+dir
+
+laboratory
+dir
+
+ambulatory
+dir
+

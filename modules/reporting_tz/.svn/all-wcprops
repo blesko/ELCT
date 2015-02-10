@@ -1,0 +1,431 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/care2002/svn/!svn/ver/7223/care2x_tz/branches/care2x_elct/modules/reporting_tz
+END
+reporting_xray.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/reporting_xray.php
+END
+rooming_main.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/rooming_main.php
+END
+tracking_summary.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/tracking_summary.php
+END
+reporting_insurance.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/reporting_insurance.php
+END
+tb_billing_summary.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/tb_billing_summary.php
+END
+OPD_summary_withoutdiagnosis.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/OPD_summary_withoutdiagnosis.php
+END
+dental_reports.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/dental_reports.php
+END
+OPD_diagnostic.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/OPD_diagnostic.php
+END
+credit_billing_summary.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/credit_billing_summary.php
+END
+billing_receipts_summary.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/billing_receipts_summary.php
+END
+reporting_pharmacy.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/reporting_pharmacy.php
+END
+OPD_Department_Admissions.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/OPD_Department_Admissions.php
+END
+general_surgeries_report.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/general_surgeries_report.php
+END
+OPD_total_summary.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/OPD_total_summary.php
+END
+art_billing_summary.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/art_billing_summary.php
+END
+cost_billing.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/cost_billing.php
+END
+credit_financial_report.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/credit_financial_report.php
+END
+blockpayment_financial_summary.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/p/care2002/svn/!svn/ver/7223/care2x_tz/branches/care2x_elct/modules/reporting_tz/blockpayment_financial_summary.php
+END
+minor_procedures_report.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/minor_procedures_report.php
+END
+IPD_admissions_discharge.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/IPD_admissions_discharge.php
+END
+reporting_pharmacy.php_original
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/reporting_pharmacy.php_original
+END
+insurance_company_financial.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/insurance_company_financial.php
+END
+clinical_reports_pass.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/clinical_reports_pass.php
+END
+con_db.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/con_db.php
+END
+reporting_clinical_reports.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/reporting_clinical_reports.php
+END
+system_reports_pass.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/system_reports_pass.php
+END
+opd_insurance_financial_report.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/opd_insurance_financial_report.php
+END
+rooming_main_print.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/rooming_main_print.php
+END
+dental_prepaid_financial_summary.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/dental_prepaid_financial_summary.php
+END
+laboratory_reports.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/laboratory_reports.php
+END
+mtuha_icd10.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/mtuha_icd10.php
+END
+companies_financial_summary.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/companies_financial_summary.php
+END
+services_reports.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/services_reports.php
+END
+billing_insurance_summary.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/billing_insurance_summary.php
+END
+IPD_admissions.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/IPD_admissions.php
+END
+prepaid_financial_summary.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/prepaid_financial_summary.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/index.php
+END
+index.htm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/index.htm
+END
+reporting_tz_pass.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/reporting_tz_pass.php
+END
+reporting_weberp.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/reporting_weberp.php
+END
+ortho_surgeries_report.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/ortho_surgeries_report.php
+END
+radiology_revenue.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/radiology_revenue.php
+END
+reporting_radiology.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/reporting_radiology.php
+END
+IPD_discharge.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/IPD_discharge.php
+END
+billing_cash_summary.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/billing_cash_summary.php
+END
+cash_billing_summary.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/cash_billing_summary.php
+END
+reporting_financial_reports.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/reporting_financial_reports.php
+END
+billing_summary.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/billing_summary.php
+END
+reporting_main_menu.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/reporting_main_menu.php
+END
+OPD_infections.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/OPD_infections.php
+END
+roots.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/roots.php
+END
+reporting_pharmacy_reports.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/reporting_pharmacy_reports.php
+END
+OPD_Admissions.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/OPD_Admissions.php
+END
+reporting_services.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/reporting_services.php
+END
+cash_financial_report.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/cash_financial_report.php
+END
+laboratory.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/laboratory.php
+END
+docs_util_report.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/docs_util_report.php
+END
+ipd_insurance_financial_report.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/ipd_insurance_financial_report.php
+END
+insurance_financial_report.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/insurance_financial_report.php
+END
+billing_revenue_summary.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/billing_revenue_summary.php
+END
+deleted_quotations_report.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/deleted_quotations_report.php
+END
+reporting_consumables.php_original
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/reporting_consumables.php_original
+END
+financial_reports_pass.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/financial_reports_pass.php
+END
+OPD_summary.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/OPD_summary.php
+END
+reporting_dental.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/reporting_dental.php
+END
+system_reports.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/system_reports.php
+END
+reporting_consumables.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/reporting_consumables.php
+END
+pending_quotations_report.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/pending_quotations_report.php
+END
+obgyne_surgeries_report.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/obgyne_surgeries_report.php
+END
+laboratory_revenue.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p/care2002/svn/!svn/ver/7123/care2x_tz/branches/care2x_elct/modules/reporting_tz/laboratory_revenue.php
+END
+IPD_discharge_types.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/reporting_tz/IPD_discharge_types.php
+END

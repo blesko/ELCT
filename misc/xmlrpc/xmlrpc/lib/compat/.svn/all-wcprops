@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/misc/xmlrpc/xmlrpc/lib/compat
+END
+var_export.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/misc/xmlrpc/xmlrpc/lib/compat/var_export.php
+END
+is_callable.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/misc/xmlrpc/xmlrpc/lib/compat/is_callable.php
+END
+is_a.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/misc/xmlrpc/xmlrpc/lib/compat/is_a.php
+END
+version_compare.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/misc/xmlrpc/xmlrpc/lib/compat/version_compare.php
+END
+is_scalar.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/misc/xmlrpc/xmlrpc/lib/compat/is_scalar.php
+END
+array_key_exists.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/misc/xmlrpc/xmlrpc/lib/compat/array_key_exists.php
+END

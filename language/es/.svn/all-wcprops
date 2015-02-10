@@ -1,0 +1,419 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es
+END
+lang_es_aufnahme.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_aufnahme.php
+END
+lang_es_table.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_table.php
+END
+lang_es_modulneu.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_modulneu.php
+END
+lang_es_db_msg.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_db_msg.php
+END
+es_credits.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/es_credits.php
+END
+lang_es_actions.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_actions.php
+END
+lang_es_specials.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_specials.php
+END
+lang_es_plugins_vitalcalc.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_plugins_vitalcalc.php
+END
+lang_es_personnel.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_personnel.php
+END
+lang_es_edp.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_edp.php
+END
+lang_es_checkdate.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_checkdate.php
+END
+lang_es_drg.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_drg.php
+END
+lang_es_newscolumns.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_newscolumns.php
+END
+lang_es_or.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_or.php
+END
+lang_es_billing.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_billing.php
+END
+lang_es_intramail.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_intramail.php
+END
+lang_es_obstetrics.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_obstetrics.php
+END
+lang_es_tech.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_tech.php
+END
+lang_es_departments.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_departments.php
+END
+lang_es_myintranet.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_myintranet.php
+END
+lang_es_date_time.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_date_time.php
+END
+lang_es_inpatient.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_inpatient.php
+END
+lang_es_radio.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_radio.php
+END
+lang_es_chemlab_params.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_chemlab_params.php
+END
+lang_es_access.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_access.php
+END
+lang_es_personell.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_personell.php
+END
+lang_es_images.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_images.php
+END
+tags.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/tags.php
+END
+lang_es_reporting.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_reporting.php
+END
+lang_es_phone.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_phone.php
+END
+lang_es_abteilung.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_abteilung.php
+END
+lang_es_latex.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_latex.php
+END
+roots.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/roots.php
+END
+lang_es_ambulatory.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_ambulatory.php
+END
+es_copyrite.php2
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/es_copyrite.php2
+END
+lang_es_emr.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_emr.php
+END
+lang_es_place.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_place.php
+END
+lang_es_editor.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_editor.php
+END
+lang_es_newsdummy.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_newsdummy.php
+END
+lang_es_invalid-access-warning.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_invalid-access-warning.php
+END
+lang_es_help.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_help.php
+END
+lang_es_diagnoses_ICD10.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_diagnoses_ICD10.php
+END
+es_copyrite.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/es_copyrite.php
+END
+es_copyrite.htm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/es_copyrite.htm
+END
+lang_es_finance.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_finance.php
+END
+lang_es_products.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_products.php
+END
+lang_es_pharmacy.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_pharmacy.php
+END
+lang_es_person.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_person.php
+END
+lang_es_pharma.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_pharma.php
+END
+tags.php.ibk
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/tags.php.ibk
+END
+lang_es_prompt.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_prompt.php
+END
+lang_es_legal.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_legal.php
+END
+lang_es_konsil_baclabor.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_konsil_baclabor.php
+END
+es_legal.htm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/es_legal.htm
+END
+lang_es_nursing.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_nursing.php
+END
+lang_es_chemlab_groups.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_chemlab_groups.php
+END
+lang_es_table_immunization.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_table_immunization.php
+END
+js_es_sex_title.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/js_es_sex_title.php
+END
+lang_es_lab.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_lab.php
+END
+lang_es_konsil.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_konsil.php
+END
+lang_es_search.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_search.php
+END
+lang_es_startframe.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_startframe.php
+END
+lang_es_konsil_chemlabor.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_konsil_chemlabor.php
+END
+lang_es_create_admin.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_create_admin.php
+END
+es_privacy.htm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/es_privacy.htm
+END
+lang_es_doctors.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_doctors.php
+END
+lang_es_prescription.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_prescription.php
+END
+lang_es_stdpass.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_stdpass.php
+END
+lang_es_indexframe.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/language/es/lang_es_indexframe.php
+END

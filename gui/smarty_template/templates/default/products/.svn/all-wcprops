@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/gui/smarty_template/templates/default/products
+END
+menu_manage.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/gui/smarty_template/templates/default/products/menu_manage.tpl
+END
+ordering_frameset.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/gui/smarty_template/templates/default/products/ordering_frameset.tpl
+END
+ordering_header.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/gui/smarty_template/templates/default/products/ordering_header.tpl
+END
+form.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/gui/smarty_template/templates/default/products/form.tpl
+END

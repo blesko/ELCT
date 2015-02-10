@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/care2002/svn/!svn/ver/7315/care2x_tz/branches/care2x_elct/modules/registration_admission/include
+END
+js_poprecordhistorywindow.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/include/js_poprecordhistorywindow.inc.php
+END
+bottom_controls_admission_options.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/include/bottom_controls_admission_options.inc.php
+END
+js_popsearchwindow.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/include/js_popsearchwindow.inc.php
+END
+save_prescription_data.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/p/care2002/svn/!svn/ver/7272/care2x_tz/branches/care2x_elct/modules/registration_admission/include/save_prescription_data.inc.php
+END
+init_show.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/include/init_show.php
+END
+bottom_controls_registration_options.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/include/bottom_controls_registration_options.inc.php
+END
+bottom_controls_admission.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/include/bottom_controls_admission.inc.php
+END
+save_admission_data.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/p/care2002/svn/!svn/ver/7315/care2x_tz/branches/care2x_elct/modules/registration_admission/include/save_admission_data.inc.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/include/index.php
+END
+save_prescription.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/p/care2002/svn/!svn/ver/7232/care2x_tz/branches/care2x_elct/modules/registration_admission/include/save_prescription.inc.php
+END
+index.htm
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/include/index.htm
+END
+bottom_controls_registration.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/modules/registration_admission/include/bottom_controls_registration.inc.php
+END
+save_immunization.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/p/care2002/svn/!svn/ver/7232/care2x_tz/branches/care2x_elct/modules/registration_admission/include/save_immunization.inc.php
+END

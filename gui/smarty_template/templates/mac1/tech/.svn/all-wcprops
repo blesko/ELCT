@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/gui/smarty_template/templates/mac1/tech
+END
+acknowledge.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/gui/smarty_template/templates/mac1/tech/acknowledge.tpl
+END
+submenu_technik.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/gui/smarty_template/templates/mac1/tech/submenu_technik.tpl
+END
+inquiry_listbox.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/gui/smarty_template/templates/mac1/tech/inquiry_listbox.tpl
+END
+send_inquiry.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/gui/smarty_template/templates/mac1/tech/send_inquiry.tpl
+END
+repair_request.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/gui/smarty_template/templates/mac1/tech/repair_request.tpl
+END
+repair_report.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/gui/smarty_template/templates/mac1/tech/repair_report.tpl
+END
+show_inquiry.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/p/care2002/svn/!svn/ver/7110/care2x_tz/branches/care2x_elct/gui/smarty_template/templates/mac1/tech/show_inquiry.tpl
+END
