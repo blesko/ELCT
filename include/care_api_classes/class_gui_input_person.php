@@ -120,6 +120,7 @@ class GuiInputPerson {
 
 		include_once($root_path.'include/inc_date_format_functions.php');
 		include_once($root_path.'include/care_api_classes/class_insurance.php');
+		include_once($root_path.'include/care_api_classes/class_tz_insurance.php');
 		include_once($root_path.'include/care_api_classes/class_person.php');
 		$db->debug=FALSE;
 
@@ -1088,7 +1089,7 @@ TODO: Kompletly not shown, or dependig on who is editing: Doctor, Lab?
 			foreach($name_insurer_array as $row)
 			{
 
-				if($insurance_ID == $row[id])
+				if($insurance_ID == $row['id'])
 				{
 					$check = 'selected';
 				}
@@ -1096,7 +1097,7 @@ TODO: Kompletly not shown, or dependig on who is editing: Doctor, Lab?
 				{
 					$check = '';
 				}
-				echo '<OPTION value="'.$row[id].'" '.$check.'>'.$row[name].'</OPTION>';
+				echo '<OPTION value="'.$row['id'].'" '.$check.'>'.$row['name'].'</OPTION>';
 
 			}
 

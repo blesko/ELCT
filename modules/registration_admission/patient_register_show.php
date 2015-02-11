@@ -39,7 +39,7 @@ $_SESSION['sess_user_origin']='registration';
 $_SESSION['sess_en']=0;
 
 # Create the person show GUI
-require_once($root_path.'include/care_api_classes/class_gui_person_show.php');
+require_once($root_path.'include/care_api_classes/class_gui_tz_person_show.php');
 
 $person = new GuiPersonShow;
 
@@ -116,7 +116,7 @@ $tab_bot_line='#66ee66';
 require('./gui_bridge/default/gui_tabs_patreg.php');
 
 # Display the data
-$sRegForm = $person->create();
+$sRegForm = $person->create($pid);
 
 $smarty->assign('sRegForm',$sRegForm);
 
