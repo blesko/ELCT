@@ -251,7 +251,7 @@ class GuiInputPerson {
                                                          name_middle='$name_middle',
                                                          name_maiden='$name_maiden',
                                                          name_others='$name_others',
-                                                         date_birth='".formatDate2STD($date_birth,$date_format)."',
+                                                         date_birth='".formatDate2STD($date_birth,$date_format,$sepChars)."',
                                                          blood_group='".trim($blood_group)."',
                                                          rh='".trim($rh)."',
                                                          sex='$sex',
@@ -938,7 +938,7 @@ if(!$no_tribe)
 				<input name="date_birth" type="text" size="15" maxlength=10 value="<?php
 		if($date_birth){
 			if($mode=='save'||$error||$error_person_exists) echo $date_birth;
-				else echo formatDate2Local($date_birth,$date_format);
+				else echo formatDate2Local($date_birth,$date_format,$sepChars);
 		}
 		# Uncomment the following when the current date must be inserted
 		# automatically at the start of each document
