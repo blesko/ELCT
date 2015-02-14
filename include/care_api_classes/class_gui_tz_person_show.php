@@ -267,33 +267,45 @@ class GuiPersonShow extends Person{
 
 
 		if (!$GLOBAL_CONFIG['person_title_hide']){
-			$this->smarty->assign('sPersonTitle',$this->createTR( $LDTitle, $title));
+		$this->smarty->assign('LDTitle',$LDTitle);
+		$this->smarty->assign('title',$title);
+			//$this->smarty->assign('sPersonTitle',$this->createTR( $LDTitle, $title));
 			$iRowSpanCount++;
 		}
 
-		$this->smarty->assign('sNameLast',$this->createTR($LDLastName,$name_last,1,TRUE));
+		//$this->smarty->assign('sNameLast',$this->createTR($LDLastName,$name_last,1,TRUE));
 		//$iRowSpanCount++;
-
+		$this->smarty->assign('LDLastName',$LDLastName);
+		$this->smarty->assign('name_last',$name_last);
 		# If person is dead show a black cross
 		if($death_date&&$death_date!=$dbf_nodate) $sCross = '&nbsp;<img '.createComIcon($root_path,'blackcross_sm.gif','0','',TRUE).'>';
 			else $sCross ='';
 
-		$this->smarty->assign('sNameFirst',$this->createTR($LDFirstName,$name_first.$sCross,1,TRUE));
-
+		//$this->smarty->assign('sNameFirst',$this->createTR($LDFirstName,$name_first.$sCross,1,TRUE));
+		$this->smarty->assign('LDFirstName',$LDFirstName);
+		$this->smarty->assign('name_first',$name_first);
 		if (!$GLOBAL_CONFIG['person_name_2_hide']&&$name_2){
-			$this->smarty->assign('sName2',$this->createTR($LDName2,$name_2));
+			//$this->smarty->assign('sName2',$this->createTR($LDName2,$name_2));
+		$this->smarty->assign('LDName2',$LDName2);
+		$this->smarty->assign('name_2',$name_2);
 			$iRowSpanCount++;
 		}
 		if (!$GLOBAL_CONFIG['person_name_3_hide']&&$name_3){
-			$this->smarty->assign('sName3',$this->createTR($LDName3,$name_3));
+			//$this->smarty->assign('sName3',$this->createTR($LDName3,$name_3));
+		$this->smarty->assign('LDName3',$LDName3);
+		$this->smarty->assign('name_3',$name_3);
 			$iRowSpanCount++;
 		}
 		if (!$GLOBAL_CONFIG['person_name_middle_hide']&&$name_middle){
-			$this->smarty->assign('sNameMiddle',$this->createTR($LDNameMid,$name_middle));
+			//$this->smarty->assign('sNameMiddle',$this->createTR($LDNameMid,$name_middle));
+		$this->smarty->assign('LDNameMid',$LDNameMid);
+		$this->smarty->assign('name_2',$name_middle);
 			$iRowSpanCount++;
 		}
 		if (!$GLOBAL_CONFIG['person_name_maiden_hide']&&$name_maiden){
-			$this->smarty->assign('sNameMaiden',$this->createTR($LDNameMaiden,$name_maiden));
+			//$this->smarty->assign('sNameMaiden',$this->createTR($LDNameMaiden,$name_maiden));
+		$this->smarty->assign('LDNameMaiden',$LDNameMaiden);
+		$this->smarty->assign('name_maiden',$name_maiden);
 			$iRowSpanCount++;
 		}
 		if (!$GLOBAL_CONFIG['person_name_others_hide']&&$name_others){
@@ -320,8 +332,11 @@ class GuiPersonShow extends Person{
 		if (!$GLOBAL_CONFIG['person_bloodgroup_hide'] && trim($blood_group)) {
 			// KB: make blood group hideable
 			$this->smarty->assign('LDBloodGroup',$LDBloodGroup);
-			$buf='LD'.trim($blood_group);
-			$this->smarty->assign('sBGAInput',$$buf);
+			$buf=trim($blood_group);
+			$this->smarty->assign('sBGAInput',$buf);
+			$this->smarty->assign('LDRHfactor',$LDRHfactor);
+			$this->smarty->assign('rh',$rh);
+
 		}
 
 		if (!$GLOBAL_CONFIG['person_civilstatus_hide'] && trim($civil_status)) {
@@ -336,27 +351,27 @@ class GuiPersonShow extends Person{
 			$this->smarty->assign('sCSSingleInput',$sCSBuffer);
 		}
 
-		$this->smarty->assign('LDAddress',"$LDAddress:");
+		$this->smarty->assign('LDAddress',$LDAddress);
 
-		$this->smarty->assign('LDStreet',"$LDStreet:");
+		$this->smarty->assign('LDStreet',$LDStreet);
 
 		$this->smarty->assign('sStreetInput',$addr_str);
 
-		$this->smarty->assign('LDStreetNr',"$LDStreetNr:");
+		$this->smarty->assign('LDStreetNr',$LDStreetNr);
 
 		$this->smarty->assign('sStreetNrInput',$addr_str_nr);
 
-		$this->smarty->assign('LDTownCity',"$LDTownCity:");
+		$this->smarty->assign('LDTownCity',$LDTownCity);
 		$this->smarty->assign('sTownCityInput',$addr_citytown_name);
 
-		$this->smarty->assign('LDZipCode',"$LDZipCode :");
+		$this->smarty->assign('LDZipCode',$LDZipCode);
 		$this->smarty->assign('sZipCodeInput',$addr_zip);
 
 		$this->smarty->assign('LDTribe',"$LDTribe :");
-		$this->smarty->assign('sTribe',$tribe_name);
+		$this->smarty->assign('tribe_name',$tribe_name);
 
-		$this->smarty->assign('LDOccupation',"$LDOccupation :");
-		$this->smarty->assign('sTitle',$title);
+		$this->smarty->assign('LDOccupation',$LDOccupation);
+		$this->smarty->assign('title',$title);
 
 		$this->smarty->assign('LDEducation',"$LDEducation :");
 		$this->smarty->assign('sEducation',$education);
