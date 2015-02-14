@@ -16,6 +16,13 @@
 		<table border=0 cellspacing=0 cellpadding=0 {{$sFormWidth}}>
 				<tr>
 					<td class="reg_item">
+						{{$LDFileNr}}
+					</td>
+					<td class="reg_input">
+						{{$selian_pid}}
+				</tr>
+				<tr>
+					<td class="reg_item">
 						{{$LDRegistryNr}}
 					</td>
 					<td class="reg_input">
@@ -54,21 +61,84 @@
 
 				{{* The following tags contain rows patterned after the  "registration_admission/reg_row.tpl" template *}}
 
+				<tr>
+					<td  class="reg_item">
+						{{$LDTitle}}
+					</td>
+					<td class="reg_input">
+						<FONT color="#800000">
+						{{$title}}
+					</td>
+				</tr>
 
 				{{$sPersonTitle}}
+				<tr>
+					<td  class="reg_item">
+						{{$LDLastName}}
+					</td>
+					<td class="reg_input">
+						<FONT color="#800000">
+						{{$name_last}}
+					</td>
+				</tr>
 				{{$sNameLast}}
+				<tr>
+					<td  class="reg_item">
+						{{$LDFirstName}}
+					</td>
+					<td class="reg_input">
+						<FONT color="#800000">
+						{{$name_first}}
+					</td>
+				</tr>
 				{{$sNameFirst}}
+				<tr>
+					<td  class="reg_item">
+						{{$LDName2}}
+					</td>
+					<td class="reg_input">
+						<FONT color="#800000">
+						{{$name_2}}
+					</td>
+				</tr>
 				{{$sName2}}
+				<tr>
+					<td  class="reg_item">
+						{{$LDName3}}
+					</td>
+					<td class="reg_input">
+						<FONT color="#800000">
+						{{$name_3}}
+					</td>
+				</tr>
 				{{$sName3}}
+				<tr>
+					<td  class="reg_item">
+						{{$LDNameMid}}
+					</td>
+					<td class="reg_input">
+						<FONT color="#800000">
+						{{$name_middle}}
+					</td>
+				</tr>
 				{{$sNameMiddle}}
+				<tr>
+					<td  class="reg_item">
+						{{$LDNameMaiden}}
+					</td>
+					<td class="reg_input">
+						<FONT color="#800000">
+						{{$tribe_name}}
+					</td>
+				</tr>
     			{{if $bShowTribeSelection}}
     					{{*$sOtherNrSelect*}}
     					<tr>
     					  <td class="reg_item">
-    					    {{ $sNameTribe }}
+    					    {{ $LDTribe }}
    					    </td>
         					  <td class="reg_input">
-        					    {{ $sTribeSelect }}
+        					    {{ $tribe_name }}
         				</td>
         			  </td>
     					</tr>
@@ -77,14 +147,14 @@
     				  {{ $sNameTribe }}
     				{{/if}}
 
-    					<tr>
+    					<!--tr>
     					  <td class="reg_item" valign=top class="reg_input">
             		{{$sTownCity}}
             		<td colspan=2 class="reg_input">
         		    {{ $sTownCitySelect }}
         		    </td>
             		</td>
-            	</tr>
+            	</tr-->
 				{{$sNameOthers}}
 
 				<tr>
@@ -105,9 +175,9 @@
 					{{$LDBloodGroup}}
 				</td>
 				<td colspan=2 class="reg_input">
-					{{$sBGAInput}}{{$LDA}}  &nbsp;&nbsp; {{$sBGBInput}}{{$LDB}} &nbsp;&nbsp; {{$sBGABInput}}{{$LDAB}}  &nbsp;&nbsp; {{$sBGOInput}}{{$LDO}}
+					{{$sBGAInput}}{{$buf}}  &nbsp;&nbsp; {{$sBGBInput}}{{$LDB}} &nbsp;&nbsp; {{$sBGABInput}}{{$LDAB}}  &nbsp;&nbsp; {{$sBGOInput}}{{$LDO}}
           &nbsp;&nbsp;
-					| {{$RHfactor}} {{$sBRHposInput}}{{$RHpos}}  &nbsp;&nbsp; {{$sBRHnegInput}}{{$RHneg}}
+					| {{$LDRHfactor}} {{$LDBRHposInput}}{{$rh}}  &nbsp;&nbsp; {{$LDBRHnegInput}}{{$RHneg}}
 					<br>
 				</td>
 				</tr>
