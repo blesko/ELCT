@@ -573,8 +573,8 @@ if($ward_ok){
 
 			if($bed['date_birth']){
 
-				if(isset($sg)&&$sg) $smarty->assign('sBirthDate',eregi_replace($sg,"<font color=#ff0000><b>".ucfirst($sg)."</b></font>",formatDate2Local($bed['date_birth'],$date_format)));
-					else $smarty->assign('sBirthDate',formatDate2Local($bed['date_birth'],$date_format));
+				if(isset($sg)&&$sg) $smarty->assign('sBirthDate',eregi_replace($sg,"<font color=#ff0000><b>".ucfirst($sg)."</b></font>",formatDate2Local($bed['date_birth'],$date_format,f,f,$sepChars)));
+					else $smarty->assign('sBirthDate',formatDate2Local($bed['date_birth'],$date_format,f,f,$sepChars));
 			}
 
 
@@ -598,7 +598,7 @@ if($ward_ok){
 
 				$smarty->assign('sPatNr',$pid);
 
-				$smarty->assign('sAdmDate',formatDate2Local($date,$date_format).' '.$dateArr['hour'].':'.$dateArr['minute']);
+				$smarty->assign('sAdmDate',formatDate2Local($date,$date_format,f,f,$sepChars).' '.$dateArr['hour'].':'.$dateArr['minute']);
 
 
 
